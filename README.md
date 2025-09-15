@@ -84,5 +84,5 @@
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=PradumnaVerma&icon=0&color=7)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=PradumnaVerma&label=Profile%20Views&color=7&pretty=true)](https://visitcount.itsvg.in)
 
