@@ -49,7 +49,16 @@
 
 ---
 
-## 🚀 Featured Projects  
+## 🚀 Featured Projects 
+- 📜 [**Resume Builder**](https://pradumnaverma.github.io/Resume_Builder/) – An ATS-friendly and customizable Resume Builder built with HTML, CSS, and JavaScript. Users can fill in their details, preview their resume in real time, and download a professional-looking PDF instantly.
+
+
+
+
+### 🎮 HTML,CSS and JS 
+- 🏹 [**Auto Driver Tycoon**](https://github.com/PradumnaVerma/AutoDriverTycoon) – A strategy-based tycoon game.  
+- 🐦 [**Flappy Bird Clone**](https://github.com/PradumnaVerma/FlappyBirdClone) – My take on the classic flappy game.  
+- 🎲 [**Tic Tac Toe AI**](https://github.com/PradumnaVerma/TicTacToeAI) – Tic Tac Toe with an unbeatable AI. 
 
 ### 🎮 Game Development  
 - 🏹 [**Auto Driver Tycoon**](https://github.com/PradumnaVerma/AutoDriverTycoon) – A strategy-based tycoon game.  
@@ -57,7 +66,7 @@
 - 🎲 [**Tic Tac Toe AI**](https://github.com/PradumnaVerma/TicTacToeAI) – Tic Tac Toe with an unbeatable AI.  
 
 ### 📚 Educational Apps  
-- 📖 [**English Vocabulary Builder**](https://github.com/PradumnaVerma/VocabBuilder) – Learn words with quizzes & lock-screen support.  
+- 📖 [**Mock Test Tracker**](https://pradumnaverma.github.io/MockTracker/) – Track your Mock Score and make Strategies accordingly.  
 - 🎓 [**CAT Prep App**](https://github.com/PradumnaVerma/CATPrepApp) – Complete CAT preparation app with points system.  
 
 ---
