@@ -1,3 +1,12 @@
+<!-- Banner -->
+![Banner](https://via.placeholder.com/1200x250.png?text=Pradumna+Verma+%7C+Game+Developer+%7C+Unity+%7C+AR+VR+%7C+C%2B%2B)
+
+<!-- Typing Intro -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Hi+👋+I'm+Pradumna+Verma;Game+Developer+🎮+%7C+AR+%7C+VR+%7C+Unity;C%2B%2B+Lover+💙+%7C+3D+Modeling+%7C+Graphics)](https://git.io/typing-svg)
+
+---
+
+
 # 💫 About Me:
 👋 Hi, I’m @PradumnaVerma  
 👀 I'm passionate about coding in **C++** and exploring the exciting world of **game development**.  
