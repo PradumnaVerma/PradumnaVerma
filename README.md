@@ -50,7 +50,9 @@
 ---
 
 ## 🚀 Featured Projects 
+### 🎮 HTML,CSS and JS 
 - 📜 [**Resume Builder**](https://pradumnaverma.github.io/Resume_Builder/) – An ATS-friendly and customizable Resume Builder built with HTML, CSS, and JavaScript. Users can fill in their details, preview their resume in real time, and download a professional-looking PDF instantly.
+- ⏱️[**Advanced Stopwatch and Timer**](https://smart-watch-ten.vercel.app/) – Advanced Stopwatch and Timer
 
 
 
