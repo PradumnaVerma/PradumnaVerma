@@ -50,26 +50,13 @@
 ---
 
 ## 🚀 Featured Projects 
-### 🎮 HTML,CSS and JS 
+
 - 📜 [**Resume Builder**](https://resume-builder-psi-azure.vercel.app/) – An ATS-friendly and customizable Resume Builder built with HTML, CSS, and JavaScript. Users can fill in their details, preview their resume in real time, and download a professional-looking PDF instantly.
-- ⏱️[**Advanced Stopwatch and Timer**](https://smart-watch-ten.vercel.app/) – Advanced Stopwatch and Timer
+- ⏱️ [**Advanced Stopwatch and Timer**](https://smart-watch-ten.vercel.app/) – Advanced Stopwatch and Timer
+- ✅ [**TaskFlow:to-do list**](https://task-flow-omega-gilt.vercel.app/) - Task Flow – A modern, interactive to-do list web app with local storage persistence and Spline-powered design.
 
-
-
-
-### 🎮 HTML,CSS and JS 
-- 🏹 [**Auto Driver Tycoon**](https://github.com/PradumnaVerma/AutoDriverTycoon) – A strategy-based tycoon game.  
-- 🐦 [**Flappy Bird Clone**](https://github.com/PradumnaVerma/FlappyBirdClone) – My take on the classic flappy game.  
-- 🎲 [**Tic Tac Toe AI**](https://github.com/PradumnaVerma/TicTacToeAI) – Tic Tac Toe with an unbeatable AI. 
-
-### 🎮 Game Development  
-- 🏹 [**Auto Driver Tycoon**](https://github.com/PradumnaVerma/AutoDriverTycoon) – A strategy-based tycoon game.  
-- 🐦 [**Flappy Bird Clone**](https://github.com/PradumnaVerma/FlappyBirdClone) – My take on the classic flappy game.  
 - 🎲 [**Tic Tac Toe AI**](https://github.com/PradumnaVerma/TicTacToeAI) – Tic Tac Toe with an unbeatable AI.  
-
-### 📚 Educational Apps  
 - 📖 [**Mock Test Tracker**](https://pradumnaverma.github.io/MockTracker/) – Track your Mock Score and make Strategies accordingly.  
-- 🎓 [**CAT Prep App**](https://github.com/PradumnaVerma/CATPrepApp) – Complete CAT preparation app with points system.  
 
 ---
 
